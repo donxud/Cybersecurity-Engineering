@@ -13,6 +13,7 @@ This portfolio contains technical articles, architecture designs, research, and 
 ### Network Security
 
 - [BGP Hijacking Explained: How It Happens and How to Defend Against It](network-security/bgp-hijacking-explained.md) — Recent routing incidents, the limits of route origin validation, and how network and SOC teams can detect, mitigate, and investigate traffic diversion.
+- [DNS Hijacking Explained: How It Happens and How to Defend Against It](network-security/dns-hijacking-explained.md) — Recent DNS hijacking incidents, defenses for domains and resolvers, and a SOC playbook for containment and exposure assessment.
 
 ## Technical Focus
 
