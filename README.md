@@ -1,23 +1,26 @@
 # Cybersecurity Engineering
 
-Welcome to my cybersecurity engineering portfolio.
-
 I'm a Vancouver-based cybersecurity professional with hands-on experience in incident response, threat detection, security operations, cloud security, enterprise networking, and security automation.
 
-This repository contains technical articles, architecture designs, security research, and practical examples based on my professional experience and ongoing learning.
-
-## Technical Focus
-
-- **Security Operations & Incident Response:** Microsoft Sentinel, Defender XDR, SIEM, threat hunting, KQL
-- **Cloud & Identity Security:** Microsoft Azure, Entra ID, Intune, Zero Trust
-- **Network Security:** Juniper SRX, Palo Alto Networks, DNS security, VPN, network monitoring
-- **AI Security:** AI-assisted SOC, LLM security, secure AI automation
-- **Security Engineering:** Python, PowerShell, detection engineering, workflow automation
+This portfolio contains technical articles, architecture designs, research, and practical examples drawn from my professional experience and ongoing learning.
 
 ## Articles & Research
 
 ### AI Security
-- [Building an AI-Assisted Security Operations Center](ai-security/building-an-ai-assisted-soc.md)
+
+- [Building an AI-Assisted SOC: From Microsoft Sentinel Detection to Governed Response](ai-security/building-an-ai-assisted-soc.md) — An AI-assisted workflow for detection, investigation, and response, with analyst approvals for high-risk actions.
+
+### Network Security
+
+- [BGP Hijacking Explained: How It Happens and How to Defend Against It](network-security/bgp-hijacking-explained.md) — Recent routing incidents, the limits of route origin validation, and how network and SOC teams can detect, mitigate, and investigate traffic diversion.
+
+## Technical Focus
+
+- **Security Operations & Incident Response** — Microsoft Sentinel, Defender XDR, SIEM, threat hunting, and KQL
+- **Cloud & Identity Security** — Microsoft Azure, Entra ID, Intune, and Zero Trust
+- **Network Security** — Juniper SRX, Palo Alto Networks, DNS security, VPNs, and network monitoring
+- **AI Security** — AI-assisted SOC workflows, LLM security, and secure AI automation
+- **Security Engineering** — Python, PowerShell, detection engineering, and workflow automation
 
 ## Upcoming Topics
 
@@ -31,4 +34,4 @@ This repository contains technical articles, architecture designs, security rese
 
 [LinkedIn](https://www.linkedin.com/in/donxux/)
 
-*All articles and examples reflect my personal technical perspective. Any examples are illustrative and do not disclose confidential organizational information.*
+*The articles reflect my personal technical perspective. Examples are illustrative and do not disclose confidential organizational information.*
