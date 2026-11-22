@@ -8,6 +8,7 @@ This portfolio contains technical articles, architecture designs, research, and 
 
 ### Security Operations & Incident Response
 
+- [Java4Shell (CVE-2026-114938): JVM Memory Corruption and Enterprise Defense](security-operations/java4shell-cve-2026-114938-analysis.md) — Analysis of OpenJDK Base64 decoder memory corruption, JIT and AVX-512 risks, enterprise exposure assessment, mitigation, and SOC threat hunting.
 - [PHP2Shell: Enterprise-Wide Exposure, Investigation, and Defensive Validation](https://github.com/donxud/PHP2Shell-Security-Investigation) — PHP runtime vulnerability exposure assessment, asset inventory, investigation, remediation, and defensive validation.
 - [Microsoft 365 Outage (November 2026): Incident Analysis and Response Playbook](https://github.com/donxud/M365-Outage-Nov2026-IR) — Analysis of a Microsoft 365 service outage, customer-side incident response, and operational resilience when cloud communication and security services are disrupted.
 - [NoisyTCP (CVE-2026-99288): Linux Blue Team Playbook](https://github.com/donxud/NoisyTCP-Blue-Team-Playbook) — Linux kernel denial-of-service risk assessment, host checks, SIEM detections, SOAR workflows, mitigation, and recovery.
@@ -26,7 +27,7 @@ This portfolio contains technical articles, architecture designs, research, and 
 
 - **Security Operations & Incident Response** — Microsoft Sentinel, Defender XDR, SIEM, threat hunting, and KQL
 - **Cloud & Identity Security** — Microsoft Azure, Entra ID, Intune, and Zero Trust
-- **Network Security** — Juniper SRX, Palo Alto Networks, DNS security, VPNs, and network monitoring
+- **Network Security** — NGFW, IDS/IPS, network segmentation, DNS security, VPN/ZTNA, and network security monitoring
 - **AI Security** — AI-assisted SOC workflows, LLM security, and secure AI automation
 - **Security Engineering** — Python, PowerShell, detection engineering, and workflow automation
 
