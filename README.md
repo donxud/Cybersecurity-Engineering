@@ -12,9 +12,9 @@ This portfolio contains technical articles, architecture designs, research, and 
 
 ### Network Security
 
-- [Zero Trust Architecture and Identity Security: IEEE 802.1X, NAC, and Dynamic VLANs](network-security/Zero_Trust_Identity_Security.md) — A practical guide to EAP-TLS, RADIUS, dynamic VLAN assignment, identity-aware access control, microsegmentation, and automated security response.
 - [BGP Hijacking Explained: How It Happens and How to Defend Against It](network-security/bgp-hijacking-explained.md) — Recent routing incidents, the limits of route origin validation, and how network and SOC teams can detect, mitigate, and investigate traffic diversion.
 - [DNS Hijacking Explained: How It Happens and How to Defend Against It](network-security/dns-hijacking-explained.md) — Recent DNS hijacking incidents, defenses for domains and resolvers, and a SOC playbook for containment and exposure assessment.
+- [Zero Trust Architecture and Identity Security: IEEE 802.1X, NAC, and Dynamic VLANs](network-security/Zero_Trust_Identity_Security.md) — A practical guide to EAP-TLS, RADIUS, dynamic VLAN assignment, identity-aware access control, microsegmentation, and automated security response.
 
 ## Technical Focus
 
