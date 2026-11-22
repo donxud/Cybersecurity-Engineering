@@ -6,6 +6,12 @@ This portfolio contains technical articles, architecture designs, research, and 
 
 ## Articles & Research
 
+### Security Operations & Incident Response
+
+- [PHP2Shell: Enterprise-Wide Exposure, Investigation, and Defensive Validation](https://github.com/donxud/PHP2Shell-Security-Investigation) — PHP runtime vulnerability exposure assessment, asset inventory, investigation, remediation, and defensive validation.
+- [Microsoft 365 Outage (November 2026): Incident Analysis and Response Playbook](https://github.com/donxud/M365-Outage-Nov2026-IR) — Analysis of a Microsoft 365 service outage, customer-side incident response, and operational resilience when cloud communication and security services are disrupted.
+- [NoisyTCP (CVE-2026-99288): Linux Blue Team Playbook](https://github.com/donxud/NoisyTCP-Blue-Team-Playbook) — Linux kernel denial-of-service risk assessment, host checks, SIEM detections, SOAR workflows, mitigation, and recovery.
+
 ### AI Security
 
 - [Building an AI-Assisted SOC: From Microsoft Sentinel Detection to Governed Response](ai-security/building-an-ai-assisted-soc.md) — An AI-assisted workflow for detection, investigation, and response, with analyst approvals for high-risk actions.
