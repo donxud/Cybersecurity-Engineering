@@ -8,6 +8,7 @@ This portfolio contains technical articles, architecture designs, research, and 
 
 ### Security Operations & Incident Response
 
+- [BabidiGhost: AI-Assisted Intrusion Campaign — Threat Intelligence & SOC Playbook](security-operations/babidighost-ai-agent-threat-analysis.md) — Investigation of AI-enabled intrusions, Metabase exploitation, credential abuse, persistence, and practical Defender XDR, Sentinel, PostgreSQL, and YARA threat hunting.
 - [Java4Shell (CVE-2026-114938): JVM Memory Corruption and Enterprise Defense](security-operations/java4shell-cve-2026-114938-analysis.md) — Analysis of OpenJDK Base64 decoder memory corruption, JIT and AVX-512 risks, enterprise exposure assessment, mitigation, and SOC threat hunting.
 - [PHP2Shell: Enterprise-Wide Exposure, Investigation, and Defensive Validation](https://github.com/donxud/PHP2Shell-Security-Investigation) — PHP runtime vulnerability exposure assessment, asset inventory, investigation, remediation, and defensive validation.
 - [Microsoft 365 Outage (November 2026): Incident Analysis and Response Playbook](https://github.com/donxud/M365-Outage-Nov2026-IR) — Analysis of a Microsoft 365 service outage, customer-side incident response, and operational resilience when cloud communication and security services are disrupted.
